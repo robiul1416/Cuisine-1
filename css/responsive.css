@@ -1,0 +1,278 @@
+/* Extra large devices (large laptops and desktops, 1200px and down) */
+@media only screen and (max-width: 1330px) {
+
+.card.d-flex {
+    margin-left: 146px;
+}
+
+
+.card-priceee {
+    margin-left: 156px;
+}
+
+
+
+.form-row {
+    flex-wrap: wrap;
+}
+
+
+}
+
+
+
+
+/* Large devices (laptops/desktops, 1024px and down) */
+@media only screen and (max-width: 1024px) {
+
+
+.row {
+    margin-left: 0px;
+}
+.text-one.text-success {
+    margin-bottom: 42px;
+}
+
+.card.d-flex {
+    margin-left: 60px;
+}
+
+
+.text.text-success {
+    margin-bottom: 0px;
+}
+
+
+.card-priceee {
+    margin-left: 60px;
+}
+
+.row-gallery .w-100 {
+
+    height: 217px;
+    margin-top: 59px;
+}
+.row-gallery-one .w-100 {
+    height: 217px;
+}
+
+
+.con-title {
+    font-size: 33px;
+}
+
+
+button.btn.btn-primary.btn-lg {
+    margin: 1px 40px;
+
+}
+
+.contact-number {
+    margin-left: 22px;
+}
+
+span.contact-mail.text-danger {
+    margin-left: 10px;
+    font-size: 15px;
+    padding-bottom: 12px;
+    padding-bottom: 76px;
+}
+
+.form-row {
+    flex-wrap: wrap;
+}
+
+}
+
+
+/* small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+
+.card.d-flex {
+    margin-left: 131px;
+}
+
+
+.card-priceee {
+    margin-left: 131px;
+}
+
+.row-gallery .w-100 {
+    height: 160px;
+}
+
+
+.row-gallery-one .w-100 {
+   height: 160px;
+
+}
+
+.con-title {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+
+.title-p {
+    font-size: 14px;
+}
+
+iframe {
+    width: 200px;
+    height: 150px;
+}
+
+span.contact-mail.text-danger {
+    margin-left: 7px;
+    font-size: 13px;
+}
+
+
+
+.form-row {
+    flex-wrap: inherit;
+    margin-right: 0px;
+    margin-left: 0px;
+        flex-wrap: wrap;
+}
+
+
+
+input#inputMessage {
+    height: 115px;
+}
+
+
+.form-check-label {
+    margin-bottom: 0;
+    font-size: 11px;
+}
+
+
+button.btn.btn-primary.btn-lg {
+    padding: 10px 60px;
+
+}
+
+
+
+}
+
+/* Extra small devices (phones, 552px and down) */
+@media only screen and (max-width: 552px) {
+
+
+
+.text-one.text-success {
+    font-size: 33px;
+}
+
+
+.text.text-success {
+    font-size: 29px;
+
+}
+
+.row-gallery .w-100 {
+    height: 120px;
+}
+
+.row-gallery-one .w-100{
+
+   height: 120px;
+}
+
+.About-image {
+    background-size: contain;
+}
+
+.heading.text-center.text-danger {
+    padding-top: 9px;
+    font-size: 28px;
+    font-weight: revert;
+}
+
+.text.text-center.text-success{
+        padding-top: 9px;
+    font-size: 28px;
+    font-weight: revert;
+}
+
+h2.contact-t.font-weight-bold.text-primary.text-center {
+    margin-top: 0px;
+}
+
+span.contact-mail.text-danger {
+    margin-left: 6px;
+    font-size: 8px;
+}
+
+.fas.fa-phone-volume {
+    font-size: 14px;
+}
+
+
+
+
+
+
+}
+
+
+
+/* Extra small devices (phones, 411px and down) */
+@media only screen and (max-width: 411px) {
+
+.text-one.text-success {
+    font-size: 21px;
+}
+
+
+.text-muted {
+    font-size: 12px;
+}
+
+.row {
+    margin-left: -63px;
+}
+
+.row-gallery .w-100 {
+    height: 105px;
+}
+
+.row-gallery-one .w-100 {
+    height: 105px;
+}
+
+.About-text-2 {
+    font-size: 10px;
+    margin-bottom: -4px;
+    padding-bottom: 32px;
+}
+
+.form-group {
+    margin-bottom: 13px;
+}
+
+.con-title {
+    font-size: 11px;
+    font-weight: bolder;
+}
+
+
+.title-p {
+    font-size: 9px;
+}
+
+.h4, h4 {
+    font-size: 9px;
+    font-weight: bolder;
+}
+
+iframe {
+    width: 100px;
+    height: 50px;
+}
+
+
+ }

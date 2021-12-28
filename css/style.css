@@ -1,0 +1,187 @@
+*{
+	margin: 0px;
+	padding: 0 auto;
+}
+.conteiner{
+    width: 1140px;
+}
+.navbar{
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+
+img.logo {
+    width: 199px;
+    height: auto;
+}
+div#navbarNav {
+    margin-right: 40px;
+}
+li.nav-item {
+    font-size: 19px;
+    font-family: cursive;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    margin-left: 49px;
+    display: inline;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #151B54!important;
+    text-decoration: underline 3px;
+    transition: 1s ease-in-out;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 805px;
+}
+
+
+.col-md-12 {
+    margin-top: 97px;
+}
+
+.text-one.text-success {
+    color: #28a745!important;
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.card.d-flex {
+    margin-left: 36px;
+    margin-bottom: 15px;
+    margin-top: 108px;
+    padding: 4px 4px 3px;
+    border: solid #06d93d;
+}
+
+
+.text.text-success {
+    color: #28a745!important;
+    font-size: 33px;
+    font-weight: bold;
+    margin-bottom: 28px;
+}
+
+
+
+.last-iteam.col-md-12 {
+    margin-top: 97px;
+}
+
+
+.card-priceee {
+    margin-left: 31px;
+    margin-bottom: 15px;
+    margin-top: 108px;
+    padding: 4px 4px 3px;
+    border: solid #06d93d;
+}
+
+p.card-name.text-center {
+    font-weight: bold;
+    font-size: 29px;
+}
+h4.pricess.text-center.text-success {
+    margin-top: -14px;
+}
+
+
+img.card-img-price {
+    width: 228px;
+    height: auto;
+    margin-left: -1px;
+}
+
+
+.row-gallery .w-100 {
+    width: 100%!important;
+    height: 287px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+}
+.row-gallery-one .w-100 {
+    width: 100%!important;
+    height: 287px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+}
+.About-image{
+    background: url(../img/HomeDesktophtml_row3.jpg) no-repeat;
+    background-size: cover;
+width: 100%;
+height: auto;
+}
+
+
+.heading span.text.text-center.text-success {
+    color: #b4ff00!important;
+}
+
+.About-text-2 {
+    background-color: #546c5600;
+    color: #fff;
+    -webkit-text-stroke: -0.1px white;
+    font-size: 16px;
+    margin-top: 45px;
+    margin-bottom: 4px;
+    padding-bottom: 38px;
+}
+h1.heading.text-center.text-danger {
+    padding-top: 31px;
+}
+
+.Contact-form.d-flex {
+    margin-top: 70px;
+}
+h2.contact-t.font-weight-bold.text-primary.text-center {
+    margin-top: 89px;
+}
+
+input#inputMessage {
+    height: 201px;
+    text-align: start;
+}
+
+button.btn.btn-primary.btn-lg {
+    margin: 1px 117px;
+    padding: 14px 70px;
+    font-weight: bolder;
+    background-color: transparent;
+    color: black!important;
+}
+button.btn.btn-primary.btn-lg:hover{
+    background-color:darkblue!important ;
+    color: lightpink!important;
+}
+
+.fa-phone-volume:before {
+    content: "\f2a0";
+    font-size: 24px;
+    margin-left: -4px;
+    color: darkorange;
+    background-color: black;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.fa-paper-plane:before {
+    content: "\f1d8";
+    font-size: 36px;
+    background-color: cyan;
+    margin: 0px -8px;
+    padding: 5px 9px 5px 3px;
+    border-radius: 100%;
+}
+span.contact-mail.text-danger {
+    margin-left: 17px;
+    font-size: 16px;
+}
+
+p.icon {
+    margin-top: 26px;
+    margin-bottom: 30px;
+}
